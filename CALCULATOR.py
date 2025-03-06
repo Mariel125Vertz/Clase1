@@ -40,7 +40,7 @@ def calculadora ():
             print("El RESULTADO DE LA DIVISION ES DE: ", div(n1,n2))
 
         else:
-            print ("********** SALIENDO DE LA CALCULADORA **********")
+            print ("********** MODIFIQUE ESTO JAJAJAJJA **********")
             break
 calculadora()
      
